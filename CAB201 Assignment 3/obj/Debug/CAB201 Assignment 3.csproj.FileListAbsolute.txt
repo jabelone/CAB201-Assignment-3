@@ -1,0 +1,9 @@
+C:\Users\jabelone\Google Drive\Uni\Semester 2\CAB201\Assignment #3\CAB201 Assignment 3\CAB201 Assignment 3\bin\Debug\CAB201 Assignment 3.exe.config
+C:\Users\jabelone\Google Drive\Uni\Semester 2\CAB201\Assignment #3\CAB201 Assignment 3\CAB201 Assignment 3\bin\Debug\CAB201 Assignment 3.exe
+C:\Users\jabelone\Google Drive\Uni\Semester 2\CAB201\Assignment #3\CAB201 Assignment 3\CAB201 Assignment 3\bin\Debug\CAB201 Assignment 3.pdb
+C:\Users\jabelone\Google Drive\Uni\Semester 2\CAB201\Assignment #3\CAB201 Assignment 3\CAB201 Assignment 3\obj\Debug\CAB201 Assignment 3.csprojResolveAssemblyReference.cache
+C:\Users\jabelone\Google Drive\Uni\Semester 2\CAB201\Assignment #3\CAB201 Assignment 3\CAB201 Assignment 3\obj\Debug\CAB201_Assignment_3.Form1.resources
+C:\Users\jabelone\Google Drive\Uni\Semester 2\CAB201\Assignment #3\CAB201 Assignment 3\CAB201 Assignment 3\obj\Debug\CAB201_Assignment_3.Properties.Resources.resources
+C:\Users\jabelone\Google Drive\Uni\Semester 2\CAB201\Assignment #3\CAB201 Assignment 3\CAB201 Assignment 3\obj\Debug\CAB201 Assignment 3.csproj.GenerateResource.Cache
+C:\Users\jabelone\Google Drive\Uni\Semester 2\CAB201\Assignment #3\CAB201 Assignment 3\CAB201 Assignment 3\obj\Debug\CAB201 Assignment 3.exe
+C:\Users\jabelone\Google Drive\Uni\Semester 2\CAB201\Assignment #3\CAB201 Assignment 3\CAB201 Assignment 3\obj\Debug\CAB201 Assignment 3.pdb
